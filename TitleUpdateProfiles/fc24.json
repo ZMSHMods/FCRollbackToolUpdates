@@ -2,7 +2,7 @@
   "content_version": "(24.18.2)",
   "fc24tu-updates": [
     {
-      "name": "FC24 - TU18.2",
+      "name": "FC24 - #TU18.2",
       "size": "6.98GB",
       "released_date": "Unknown",
       "download_url": "https://www.mediafire.com/file/i43pt93pehqrgsf/FC24+-+#TU18.2.rar/file",
@@ -111,17 +111,17 @@
       "size": "3.86GB",
       "released_date": "Unknown",
       "download_url": "https://www.mediafire.com/file/7jwwwxsk6op6len/FC24+-+#TU6.rar/file",
-      "crc": "Unknown"
+      "crc": "b1ea01b3"
     },
     {
       "name": "FC24 - #TU5",
       "size": "3.38GB",
       "released_date": "Unknown",
       "download_url": "https://www.mediafire.com/file/yqjp5k1phg80s2j/FC24+-+#TU5.rar/file",
-      "crc": "Unknown"
+      "crc": "193a5c55"
     },
     {
-      "name": "FC24 - #TU4",
+      "name": "FC 24 - #TU4",
       "size": "2.96GB",
       "released_date": "Unknown",
       "download_url": "https://www.mediafire.com/file/ntco0pnq24s6czf/FC_24_-_%2523TU4.rar/file",
@@ -132,27 +132,27 @@
       "size": "2.91GB",
       "released_date": "Unknown",
       "download_url": "https://www.mediafire.com/file/4o810g90llksb1o/FC24_-_%23TU3.rar/file",
-      "crc": "Unknown"
+      "crc": "678f2e97"
     },
     {
-      "name": "FC24 - #TU2",
+      "name": "FC 24 - #TU2",
       "size": "2.19GB",
       "released_date": "Unknown",
       "download_url": "https://www.mediafire.com/file/51xu47kk66e96gp/FC+24+-+#TU2.rar/file",
       "crc": "Unknown"
     },
     {
-      "name": "FC24 - #TU1",
+      "name": "FC 24 - #TU1",
       "size": "2.22GB",
       "released_date": "Unknown",
       "download_url": "https://www.mediafire.com/file/elg7f92rz0btspe/FC+24+-+#TU1.rar/file",
       "crc": "Unknown"
     },
     {
-      "name": "FC24 - BASE",
+      "name": "FC 24 - BASE",
       "size": "2.2GB",
       "released_date": "Unknown",
-      "download_url": "https://www.mediafire.com/file/tecjflqfcb84nq9/FC_25_DB.rar/file",
+      "download_url": "https://www.mediafire.com/file/i14kz9to3s5l181/FC+24+-+BASE.rar/file",
       "crc": "Unknown"
     }
   ]
